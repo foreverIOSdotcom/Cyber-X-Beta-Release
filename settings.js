@@ -57,7 +57,7 @@ global.author = "🌚" //ur sticker watermark author
 global.footer = "® LateNight Bot"
 global.aliveimg here = "https://telegra.ph/rat-03-19.jpg"
 global.allmenuimg = "https://telegra.ph/rat-03-19.jpg"
-global.welcomeimg= "https://telegra.ph/rat-03-19.jpg"
+global.welcomeimg = "https://telegra.ph/rat-03-19.jpg"
 global.gbyeimg = "https://telegra.ph/rat-03-19.jpg"
 global.alivemsg = "Alive"
 //BOT MEDIAS
