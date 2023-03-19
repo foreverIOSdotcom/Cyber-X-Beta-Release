@@ -55,10 +55,10 @@ global.themeemoji = "📩" //ur theme emoji
 global.packname = "LateNight Test Bot" //ur sticker watermark packname
 global.author = "🌚" //ur sticker watermark author
 global.footer = "® LateNight Bot"
-global.aliveimg https://telegra.ph/Cat-03-19-2"
-global.allmenuimg https://telegra.ph/Cat-03-19-2"
-global.welcomeimg= "https://telegra.ph/Cat-03-19-2"
-global.gbyeimg = "https://telegra.ph/Cat-03-19-2"
+global.aliveimg here = "https://telegra.ph/rat-03-19.jpg"
+global.allmenuimg = "https://telegra.ph/rat-03-19.jpg"
+global.welcomeimg= "https://telegra.ph/rat-03-19.jpg"
+global.gbyeimg = "https://telegra.ph/rat-03-19.jpg"
 global.alivemsg = "Alive"
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
