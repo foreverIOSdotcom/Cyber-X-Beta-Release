@@ -36,30 +36,30 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['918590745203'] //ur owner number
-global.ownername = "ᴄyʙᴇʀᴛʀᴏɴ ɢᴏᴅᴢᴢᴢ" //ur owner name
-global.ytname = "YT:ᴄyʙᴇʀᴛʀᴏɴ ɢᴏᴅᴢᴢᴢ" //ur yt chanel name
-global.socialm = "GitHub: cybertrongodzzz" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.vcardowner = ['96181891266'] //ur owner number
+global.ownername = "Alan" //ur owner name
+global.ytname = "who_alan_is" //ur yt chanel name
+global.socialm = "GitHub: who_alan_is" //ur github or insta name
+global.location = "Beirut Laylake , Baalbeck" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['918590745203']
-global.ownertag = '918590745203' //ur tag number
-global.botnumber = '918590745203' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA EDITION' //ur bot name
-global.ig = "https://youtube.com/@user-nb8ky9yo8j" //your theme url which will be displayed on whatsapp
-global.myweb = "https://youtube.com/@user-nb8ky9yo8j" //script link
-global.linkz = 'https://youtube.com/@user-nb8ky9yo8j'
+global.owner = ['96181891266']
+global.ownertag = '96181891266' //ur tag number
+global.botnumber = '96181891266' //Add your Bot Number For Log
+global.botname = 'LateNight' //ur bot name
+global.ig = "" //your theme url which will be displayed on whatsapp
+global.myweb = "" //script link
+global.linkz = ''
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "Cybertron-X Test Bot" //ur sticker watermark packname
-global.author = "ᑎEᒪᐯIᑎ" //ur sticker watermark author
-global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
-global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
-global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
-global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.alivemsg = "𝐂𝐘⃢𝐁𝐄𝐑𝐓𝐑⃝𝐎𝐍〽️𝐆𝐎𝐃𝐙"
+global.packname = "LateNight Test Bot" //ur sticker watermark packname
+global.author = "🌚" //ur sticker watermark author
+global.footer = "® LateNight Bot"
+global.aliveimg https://telegra.ph/Cat-03-19-2"
+global.allmenuimg https://telegra.ph/Cat-03-19-2"
+global.welcomeimg= "https://telegra.ph/Cat-03-19-2"
+global.gbyeimg = "https://telegra.ph/Cat-03-19-2"
+global.alivemsg = "Alive"
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur logo pic
@@ -68,7 +68,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['918590745203'] //ADD YOU NUMBER
+global.premium = ['6181891266'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
